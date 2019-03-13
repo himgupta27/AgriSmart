@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Plant Image Analysis</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <style type="text/css">
+
+    body
+		{
+			margin: 0px;
+			padding: 0px;
+			background: url("{{yg.image.url}}");
+			background-attachment: fixed;
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+
+	section
+	{
+			margin: 10px;
+			padding: 10px 20px;
+	}
+
+	h1
+	{
+		text-underline-position: under;
+	}
+
+	h4
+	{
+		color: darkgreen;
+	}
+
+	#cure
+	{
+		color: maroon;
+	}
+
+	</style>
+</head>
+<body><!-- background="https://s.w-x.co/thinkstockphotos-476743286_10.jpg">-->
+	<br><center><h1><u>Image Analysis</u></h1></center><br>
+	<section>
+		<div class='form-group row'>
+			<div class="col-sm-4">
+				<center><img src="{{ourpic}}"></center>
+			</div>
+			<div clas="col-sm-1"></div>
+			<div class="col-sm-6">
+				<h4 class='form-group row'>Plant & Disease details : <span style="color: maroon;">{{disease}}</span></h4>
+				<br>
+				<h4 class='form-group row'>Treatment: </h4>
+				<h5 id="cure">{{cure}}</h5>
+			</div>
+			<div clas="col-sm-1"></div>
+			<center><h4>Your serial number is : {{number}} <br> You can use this to give feedback later. </h4></center>
+		</div>
+	<br><br>
+	<a href="{% url 'home' %}"><h5>Analyse Another Image!</h5></a>
+	</section>
+	
+</body>
+</html>

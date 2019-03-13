@@ -1,0 +1,15 @@
+			Potato
+Fertilizer requirement
+	kg/ha 	kg/bigha
+Urea	 32 	4
+SSP 	220 	35
+MOP	 - 	-
+
+
+Time of Application of Fertilizers:
+One weeding is to be done at 20-25 days after sowing.
+
+Plant Protection Measures Against Diseases :
+Wilt: The pathogen inhabits in the soil and perpetuates. Rogueing
+and burning of diseased plants partly help in controlling the
+disease.

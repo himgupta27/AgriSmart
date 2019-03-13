@@ -1,0 +1,29 @@
+        Moong(Green Gram)
+Fertilizer requirement
+	kg/ha 	kg/bigha
+Urea 	31	 4
+SSP 	220	 30
+MOP 	-	 -
+
+Time of Application of Fertilizers:
+The quantity of N is to be reduced proportionately to the quantity
+of N added in the form of FYM (each tonne of FYM contributes
+about 5 kg N).
+Diammonium phosphate (DAP) @ 75 kg/ha or 10 kg/bigha may
+be applied in lieu of urea and SSP in non inoculated crop.
+
+Plant Protection Measures Against Diseases : 
+i) Leaf spot (Cercospora spp) : 
+	As soon as disease appears
+	spray copper oxychloride @ 0.3% (1.8-2.0 kg in 600-700 lit
+	of water/ha) at an interval of 7-10 days. Alternatively
+	carbendazim @ 0.05% (300-350g in 600-700 lit of water/ha)
+	at an interval of 12-15 days should be sprayed.
+ii) Blight (Rhizoctonia solani): 
+	On appearance of this disease
+	carbendazim @ 0.05% should be sprayed as stated above. It
+	will also control leaf spot and powdery mildew diseases.
+	Rhizoctonia solani induced damping off, root rot and seedling
+	blight can be effectively managed by seed treatment with slurry
+	method using commercial formulations of Trichoderma spp. @
+	5 g/kg of seed.

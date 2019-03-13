@@ -1,0 +1,6 @@
+Sno, Disease, Feedback
+0, X, None
+1,Tomato_healthy,None
+2,Tomato_Leaf_Mold,True
+3,Potato___Early_blight,True
+4,Tomato_Leaf_Mold,None

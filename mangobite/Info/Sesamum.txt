@@ -1,0 +1,7 @@
+          Sesamum 
+Fertilizer requirement
+	kg/ha 	kg/bigha
+Urea	 65 	9
+SSP 	125	19
+MOP	 33 	5
+
